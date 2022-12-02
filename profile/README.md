@@ -1,12 +1,17 @@
-## Hi there 👋
+# BeyondClub
 
-<!--
+![Banner (9)](https://user-images.githubusercontent.com/90386676/205355242-e1778b72-82ef-4755-9126-0afbc23d48b4.png)
 
-**Here are some ideas to get you started:**
+🌐 Website: https://beyondclub.xyz
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🖥️ Frontend: https://github.com/BeyondClub/frontend
+
+💡 Contract: https://github.com/BeyondClub/contract
+
+🖌️ UI/UX Design: https://www.figma.com/file/uegO5a5sn9oNOX9K5l4FID/ETH-India
+
+## Motivations
+
+## Solution
+
+## Deck
