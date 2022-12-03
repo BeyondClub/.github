@@ -43,6 +43,12 @@ Since our target is real-world brands and their customers, it is crutial to abst
 https://github.com/BeyondClub/frontend/tree/main/context
 
 ## Deck
+![1 - beyondclub](https://user-images.githubusercontent.com/90386676/205460430-a16b50a6-18e3-42c1-9477-cac9f9c57e2d.png)
+![2 (9)](https://user-images.githubusercontent.com/90386676/205460436-f16f26a9-183b-40f6-bd56-fbac4d3bb726.png)
+![3 (5)](https://user-images.githubusercontent.com/90386676/205460506-66612d32-5356-41b3-9bfd-c9c2a011954c.png)
+![4 (3)](https://user-images.githubusercontent.com/90386676/205460521-b27463bb-1b3d-43c2-a200-84d7f018e947.png)
+![6 (6)](https://user-images.githubusercontent.com/90386676/205460557-bf651f72-dbc9-42c2-85db-fcaeb66b59da.png)
+![7 (6)](https://user-images.githubusercontent.com/90386676/205460581-8a6552b0-9ad4-4eec-b158-f678b1cac776.png)
 
 
 
