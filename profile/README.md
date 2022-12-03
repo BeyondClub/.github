@@ -11,7 +11,8 @@
 🖌️ UI/UX Design: https://www.figma.com/file/uegO5a5sn9oNOX9K5l4FID/ETH-India
 
 ## Motivations
-For real-world brands, it becomes more expensive than ever to acquire customers. In that circumstance, loyalty is a key to maximizing life-time value, so the loyalty program market is growing. ($24B USD by 2029.)
+For real-world brands, it becomes more expensive than ever to acquire customers. In that circumstance, loyalty is a key to maximizing life-time value, so the loyalty program market is growing. ($24B USD by 2029)
+
 But the current loyalty program is usually not attractive enough to keep customers for the long term, only rewarding customers when they purchase the product, and their offers are mostly about discounts.
 
 ## Solution
