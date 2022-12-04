@@ -38,7 +38,7 @@ We are applying for Best UX track, since we provide an intuitive and seamless ex
 We choose Polygon because the Polygon’s features like low fees, high transaction speeds and sustainability commitment are great fit for real-world brands.
 
 ## Biconomy
-We use Biconomy to enable social login, gasless transaction and fiat on/off-ramp to provide an intuitive and seamless experience for non-crypto users, and applying for Pool Prize.
+We use Biconomy to enable social login, gasless transaction and fiat on/off-ramp to provide an intuitive and seamless experience for non-crypto users, and applying for Batch transaction and Pool Prize.
 Since our target is real-world brands and their customers, it is crutial to abstract crypto related terms on the frontend, and we could achieve it thanks to Biconomy SDK.
 https://github.com/BeyondClub/frontend/tree/main/context
 
