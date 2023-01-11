@@ -1,4 +1,4 @@
-# BeyondClub
+# beyondClub
 
 ![Banner (9)](https://user-images.githubusercontent.com/90386676/205355242-e1778b72-82ef-4755-9126-0afbc23d48b4.png)
 
