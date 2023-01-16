@@ -4,12 +4,6 @@
 
 🌐 Website: https://beyondclub.xyz
 
-🖥️ Frontend: https://github.com/BeyondClub/frontend
-
-💡 Contract: https://github.com/BeyondClub/contract
-
-🖌️ UI/UX Design: https://www.figma.com/file/uegO5a5sn9oNOX9K5l4FID/ETH-India
-
 ## Motivations
 For real-world brands, it becomes more expensive than ever to acquire customers. In that circumstance, loyalty is a key to maximizing life-time value, so the loyalty program market is growing. ($24B USD by 2029)
 
